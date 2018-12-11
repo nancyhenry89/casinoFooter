@@ -167,7 +167,7 @@ top:0;
 img.time-tic-img{ vertical-align:-5px;}
 img.time-tic-img-lg { display:none;}
 
-.ftr-txt-con h3 {font-size:18px;line-height:24px;text-transform:uppercase;font-weight: 400;margin:0 0 3px 0;text-align:center;font-family: 'Montserrat', sans-serif;text-transform: uppercase;background: linear-gradient(to right, #e8c960 0%, #b88930 48%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+.ftr-txt-con h3 {font-size:18px;line-height:24px;text-transform:uppercase;font-weight: 500;margin:0 0 3px 0;text-align:center;font-family: 'Montserrat', sans-serif;text-transform: uppercase;background: linear-gradient(to right, #e8c960 0%, #b88930 48%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 
 .timer-holder1 { 
 padding-top:4px;
@@ -246,9 +246,9 @@ box-shadow: 0px 1px 15px 2px rgba(148,106,8,1);
 
 @media (max-width: 768px) {
   
-.main-container {padding-left:20px;padding-right:20px;padding-bottom: 30px;}
+.main-container {padding-left:20px;padding-right:20px;padding-bottom: 22px;}
 .timer{
-  top: 127px!important;
+  top: 123px!important;
   right: 0!important;
   left: 0;
   margin: auto;
